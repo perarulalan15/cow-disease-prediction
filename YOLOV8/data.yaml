@@ -1,0 +1,6 @@
+train: E:\Arul\internship\Propeller Technologies\Arul\cow_disease\train\images
+val: E:\Arul\internship\Propeller Technologies\Arul\cow_disease\valid\images
+test: E:\Arul\internship\Propeller Technologies\Arul\cow_disease\test\images
+
+nc: 1
+names: ['lumpy skin diesease']
